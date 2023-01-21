@@ -6,7 +6,8 @@ int main()
 {
     int a, b;
 
-    count << "Enter two integer number" << end1;
+    cout << "Enter two integer number" << endl;
     cin >> a >> b;
+    cout << a+b << endl;
 
 }
