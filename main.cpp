@@ -8,6 +8,8 @@ int main()
 
     cout << "Enter two integer number" << endl;
     cin >> a >> b;
-    cout << a+b << endl;
+    int c;
+    c = a + b;
+    cout << "a + b = " << c << endl;
 
 }
